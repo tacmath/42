@@ -1,9 +1,9 @@
-# WELCOME TO MY 42 /TACMATH/ PROJECTS. #
+# WELCOME TO MY 42 PROJECTS. #
 
 This repository is hosting the following projects:
 
 - Graphic :
-	- [Minecarft](https://github.com/tacmath/minecraft.git)
+	- [Minecraft](https://github.com/tacmath/minecraft.git)
 		<dd>Minecraft is a voxel world based on the game Minecraft. The project was created in C++ and used OpenGL as graphic library. I used this project to learn C++ and multiples graphic techniques such as cascaded shadow mapping, layered rendering and other.<dd>
 	![](https://github.com/tacmath/assets/blob/master/minecraft.gif?raw=true)
 
